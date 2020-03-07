@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#bg-imagemtopo {
+  
+  background-image: url(assets/images/Logo.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-attachment: scroll;
+  background-size: cover;
+  
+  height: auto;
+}
+
+.center {
+  margin: auto;
+}
+
+#rodape {
+  position:absolute !important;
+  bottom:0;
+}
